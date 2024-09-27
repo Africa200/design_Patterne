@@ -1,0 +1,2 @@
+Le design pattern factory est un design pattern de creation, il permet de renvoyer une classe
+specifique en fonction de l'entrer. Comme son nom l'indique c'est un design de fabrique.
