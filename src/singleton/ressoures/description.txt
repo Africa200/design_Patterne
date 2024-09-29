@@ -1,0 +1,1 @@
+Le design pattern singleton est un design pattern de creation.
